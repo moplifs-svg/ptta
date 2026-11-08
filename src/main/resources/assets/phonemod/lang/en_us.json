@@ -1,0 +1,49 @@
+{
+  "item.phonemod.phone": "Phone",
+  "itemGroup.phonemod": "Phone Mod",
+
+  "key.phonemod.open": "Open phone",
+  "key.categories.phonemod": "Phone Mod",
+
+  "phone.voice.line": "Phone",
+
+  "phone.gui.title": "Phone",
+  "phone.gui.contacts": "Who do you want to call?",
+  "phone.gui.nobody": "No one else is online.",
+  "phone.gui.calling": "Calling",
+  "phone.gui.incoming": "Incoming call",
+  "phone.gui.in_call": "In call",
+  "phone.gui.mic_hint": "Just talk, they can hear you.",
+  "phone.gui.cancel": "Cancel",
+  "phone.gui.answer": "Answer",
+  "phone.gui.decline": "Decline",
+  "phone.gui.hangup": "Hang up",
+  "phone.gui.close": "Close",
+
+  "phone.msg.call_self": "You can't call yourself.",
+  "phone.msg.not_online": "That player is not online.",
+  "phone.msg.you_busy": "You are already in a call.",
+  "phone.msg.target_busy": "%s is already on another call.",
+  "phone.msg.you_need_phone": "You need a phone in your inventory to make a call.",
+  "phone.msg.target_no_phone": "%s doesn't have a phone on them.",
+  "phone.msg.voice_unavailable": "Voice chat is not available on this server right now.",
+  "phone.msg.you_no_voice": "Voice chat isn't connected for you. Check your Plasmo Voice settings.",
+  "phone.msg.target_no_voice": "%s isn't connected to voice chat.",
+  "phone.msg.nothing_to_answer": "No one is calling you.",
+  "phone.msg.not_in_call": "You are not in a call.",
+
+  "phone.msg.calling": "Calling %s...",
+  "phone.msg.incoming": "%s is calling you.",
+  "phone.msg.answer": "[Answer]",
+  "phone.msg.decline": "[Decline]",
+  "phone.msg.connected": "Connected with %s.",
+
+  "phone.msg.ended": "Call ended.",
+  "phone.msg.hung_up": "%s hung up.",
+  "phone.msg.you_declined": "Call declined.",
+  "phone.msg.declined": "%s declined your call.",
+  "phone.msg.cancelled": "Call cancelled.",
+  "phone.msg.missed": "Missed call from %s.",
+  "phone.msg.no_answer": "%s didn't answer.",
+  "phone.msg.phone_lost": "Call dropped: a phone was lost."
+}
